@@ -1,3 +1,3 @@
 <?php
-true
+printf("true")
 ?>
